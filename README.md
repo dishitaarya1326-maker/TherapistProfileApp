@@ -1,3 +1,83 @@
+# Therapist Profile App 🧠✨
+
+A calm, modern therapist profile website built with **Next.js (App Router)**, designed to create a sense of safety, trust, and clarity for potential clients.  
+This project focuses on thoughtful UX, smooth interactions, and clean visual storytelling for a mental health professional.
+
+---
+
+## ✨ Features
+
+### 🧩 Structured, Section-Based Layout
+- Hero section with a primary call-to-action
+- About the practice section
+- Therapist background & therapeutic approach
+- Services overview
+- Support & conditions treated
+- Office space and location details
+- Call-to-action section
+- Footer with contact details and Google Map
+
+All sections are connected using **smooth in-page navigation**.
+
+---
+
+### 🎨 Calm & Professional Design
+- Soft neutral and pastel color palette
+- Emotionally supportive typography
+- Spacious layout with intentional white space
+- Subtle gradients and image overlays
+
+---
+
+### 🎥 Smooth Animations
+- Scroll-based animations using **Framer Motion**
+- Gentle transitions that feel natural and non-distracting
+- Animated headings, lists, and CTAs
+
+---
+
+### 📍 Office & Contact Information
+- Dedicated office section with calming imagery
+- Embedded **Google Maps** location
+- Clear address and office hours
+- “Get in touch” CTAs scroll directly to the contact section
+
+---
+
+### 📱 Fully Responsive
+- Optimized for mobile, tablet, and desktop
+- Responsive image and text layouts
+- Mobile-friendly navigation menu
+
+---
+
+### 🧭 Clean Navigation
+- Sticky header with anchor links
+- Clear information hierarchy
+- Minimal, non-overwhelming CTAs
+- Smooth scroll experience
+
+---
+
+## 🛠️ Tech Stack
+
+- **Next.js (App Router)**
+- **React**
+- **TypeScript**
+- **Tailwind CSS**
+- **Framer Motion**
+- **Lucide Icons**
+- **Google Maps Embed**
+
+---
+
+## 🚀 Getting Started
+
+Install dependencies:
+
+```bash
+npm install
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
